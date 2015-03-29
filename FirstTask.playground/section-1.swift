@@ -1,11 +1,3 @@
-//func natural(a: Int, b: Int, n: Int) {
-//    
-//    for i in a..b {
-//        
-//    }
-//}
-//
-//natural(1, 1000, 1)
 import Foundation
 
 infix operator ^^ { }
